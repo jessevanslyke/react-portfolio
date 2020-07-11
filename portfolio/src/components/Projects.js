@@ -1,13 +1,13 @@
 import React from "react";
-import "../styles/Footer.css"
+import "../styles/styles.css"
 
 function Project(props) {
     return(
-        <div className="card text-white bg-dark mb-3">
+        <div className="card text-white mb-3">
             <img className="card-img-top photo" src={props.imgFile} alt={props.name} />
-            <div className="card-body">
-                <p className="card-title">{props.title}</p>
-                <a className="btn-sm btn-primary" href={props.githubRepo}>&nbsp;Github Repo&nbsp;&nbsp;</a><br />
+            <div className="card-body text-center">
+                <p className="card-title text-center">{props.title}</p>
+                <a className="btn-sm btn-primary justify-content-center" href={props.githubRepo}>&nbsp;Github Repo&nbsp;&nbsp;</a><br />
                 <a className="btn-sm btn-secondary" href={props.deployedSrc}>Deployed App</a>
             </div>
         </div>
