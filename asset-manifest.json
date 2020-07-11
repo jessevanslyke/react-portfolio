@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.26c38953.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.155f244d.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.155f244d.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.3ef1f71c.chunk.js": "/react-portfolio/static/js/2.3ef1f71c.chunk.js",
+    "static/js/2.3ef1f71c.chunk.js.map": "/react-portfolio/static/js/2.3ef1f71c.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.5efaf33feeb5f7de91add9cf41e86df7.js": "/react-portfolio/precache-manifest.5efaf33feeb5f7de91add9cf41e86df7.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.26c38953.chunk.css.map": "/react-portfolio/static/css/main.26c38953.chunk.css.map",
+    "static/js/2.3ef1f71c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.3ef1f71c.chunk.js.LICENSE.txt",
+    "static/media/burger-app.PNG": "/react-portfolio/static/media/burger-app.b1bb7b22.PNG",
+    "static/media/day-planner-app.PNG": "/react-portfolio/static/media/day-planner-app.b7bbef1d.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.3ef1f71c.chunk.js",
+    "static/css/main.26c38953.chunk.css",
+    "static/js/main.155f244d.chunk.js"
+  ]
+}
