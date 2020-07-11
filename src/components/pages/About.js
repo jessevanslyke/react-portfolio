@@ -17,6 +17,7 @@ function About() {
       </p>
       <p>LinkedIn: <a href="https://linkedin.com/in/jesse-vanslyke">https://linkedin.com/in/jesse-vanslyke</a></p>
       <p>Github: <a href="https://github.com/jessevanslyke">https://github.com/jessevanslyke</a></p>
+      <p><a href="https://drive.google.com/file/d/1_mEuiWUd5Kv5WC7ZqHgCmPs3ys5XnTGx/view?usp=sharing">Check out my resume here as well!</a></p>
     </div>
   );
 }
