@@ -18,17 +18,17 @@ function Portfolio(props) {
                         </div>
                         <div className="w-100"></div>
                         <div className="col">
-                            <Project name="employee-tracker-app" title="Employee Tracker App" githubRepo="https://github.com/jessevanslyke/employee-tracker" deployedSrc="https://pure-atoll-35245.herokuapp.com/" imgFile="http://placehold.jp/150x150.png" />
+                            <Project name="employee-tracker-app" title="Employee Tracker App" githubRepo="https://github.com/jessevanslyke/employee-tracker" deployedSrc="https://github.com/jessevanslyke/employee-tracker" imgFile="http://placehold.jp/150x150.png" />
                         </div>
                         <div className="col">
-                            <Project name="js-code-quiz-app" title="JS Code Quiz App" githubRepo="https://github.com/jessevanslyke/js-code-quiz" deployedSrc="https://pure-atoll-35245.herokuapp.com/" imgFile="http://placehold.jp/150x150.png" />
+                            <Project name="js-code-quiz-app" title="JS Code Quiz App" githubRepo="https://github.com/jessevanslyke/js-code-quiz" deployedSrc="https://jessevanslyke.github.io/js-code-quiz/" imgFile="http://placehold.jp/150x150.png" />
                         </div>
                         <div className="w-100"></div>
                         <div className="col">
-                            <Project name="random-password-generator-app" title="Random Password Generator App" githubRepo="https://github.com/jessevanslyke/random-password-generator" deployedSrc="https://pure-atoll-35245.herokuapp.com/" imgFile="http://placehold.jp/150x150.png" />
+                            <Project name="random-password-generator-app" title="Random Password Generator App" githubRepo="https://github.com/jessevanslyke/random-password-generator" deployedSrc="https://jessevanslyke.github.io/random-password-generator/" imgFile="http://placehold.jp/150x150.png" />
                         </div>
                         <div className="col">
-                            <Project name="weather-app" title="Weather App" githubRepo="https://github.com/jessevanslyke/weather-app" deployedSrc="https://pure-atoll-35245.herokuapp.com/" imgFile="http://placehold.jp/150x150.png" />
+                            <Project name="weather-app" title="Weather App" githubRepo="https://github.com/jessevanslyke/weather-app" deployedSrc="https://jessevanslyke.github.io/weather-app/" imgFile="http://placehold.jp/150x150.png" />
                         </div>
                     </div>
                 </div>
