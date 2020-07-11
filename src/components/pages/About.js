@@ -11,6 +11,12 @@ function About() {
         <br />
         I have over 5 years of professional experience in the IT sphere of the Financial Services industry, with half of it in Systems Administration and the other half in C# Application Development.
       </p>
+
+      <p>
+        Feel free to browse my LinkedIn/Github pages below:<br />
+      </p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/jesse-vanslyke">https://linkedin.com/in/jesse-vanslyke</a></p>
+      <p>Github: <a href="https://github.com/jessevanslyke">https://github.com/jessevanslyke</a></p>
     </div>
   );
 }
